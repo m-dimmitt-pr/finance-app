@@ -1,24 +1,16 @@
-# README
+Project built using ruby on rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Using the application: 
+1. Register an account 
+2. Click links and see related information.
 
-Things you may want to cover:
+![screen shot 2017-09-09 at 5 46 45 pm](https://user-images.githubusercontent.com/11463275/30244194-73851abe-9587-11e7-8942-abe5602ea94c.png)
 
-* Ruby version
+## Developer Installation
+1. git clone https://github.com/wbhinton/finance-app.git;
+2. bundle install;
+3. rake db: create
+4. rake db: migrate
+5. rails s
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
